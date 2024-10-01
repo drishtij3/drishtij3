@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drishti Jain</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">I'm passionate about Data Science Or Mchine Learning</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning**
